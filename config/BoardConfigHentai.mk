@@ -4,4 +4,5 @@ include vendor/hentai/config/BoardConfigQcom.mk
 endif
 
 # Soong
+include vendor/hentai/config/BoardConfigKernel.mk
 include vendor/hentai/config/BoardConfigSoong.mk
